@@ -1,0 +1,4 @@
+Dbusername=root
+Dbpassword=password
+Dbname=localhost
+Port=2023

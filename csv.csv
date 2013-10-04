@@ -1,0 +1,11 @@
+UserId,Permission
+E10000,Read
+E20000,Write
+E30000,ReadWrite
+E10000,Execute
+E20000,Execute
+E30000,Read
+E40000,"Read	"
+,Delete
+E10000,Read
+E20000,Execute
